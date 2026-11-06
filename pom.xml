@@ -8,7 +8,7 @@
     <name>MAVAGI</name>
     <description>Minimal Java foundation for the MAVAGI Discord bots</description>
     <properties>
-        <maven.compiler.release>21</maven.compiler.release>
+        <maven.compiler.release>25</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jda.version>6.7.0</jda.version>
         <junit.version>5.13.4</junit.version>

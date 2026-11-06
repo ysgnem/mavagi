@@ -4,7 +4,7 @@ MAVAGI の Discord Bot 開発用スケルトンです。**現時点では機能�
 
 ## 方針
 
-- Java 21
+- Java 25
 - Maven
 - JDA 6.7.0
 - SLF4J + Logback
@@ -28,7 +28,7 @@ MAVAGI の Discord Bot 開発用スケルトンです。**現時点では機能�
 
 ## セットアップ
 
-1. Java 21 と Maven をインストール
+1. Java 25 と Maven をインストール
 2. `.env.example` を `.env` にコピー
 3. 起動したいBotのトークンを `.env` に設定
 4. Mavenでビルド
